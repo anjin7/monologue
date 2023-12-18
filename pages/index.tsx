@@ -1,9 +1,13 @@
+import type { NextPage } from "next";
 import Header from "../components/header";
-export default function Home() {
+
+
+const Home:NextPage = () => {
   return (
     <div>
       <Header />
-      <h2>Hello</h2>
+      <h2 className='font-bold'>Hello</h2>
     </div>
   )
 }
+export default Home;
