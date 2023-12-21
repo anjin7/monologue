@@ -6,7 +6,7 @@ const Home:NextPage = () => {
   return (
     <div>
       <Header />
-      <h2 className='font-bold'>Hello</h2>
+      <h2 className='font-bold text-xl m-4'>Hello</h2>
     </div>
   )
 }
