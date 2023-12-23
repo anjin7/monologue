@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 const Header: NextPage = () => {
   const router = useRouter();
   return (
-    <nav className='grid grid-cols-12 gap-6 px-4 py-3'>
+    <nav className='grid grid-cols-12 gap-6 px-4 py-3 pl-6'>
       <Link href="/" legacyBehavior>
         <a style={{ color: router.pathname === "/" ? "skyblue" : "silver" }} className='font-bold'>
           Home
