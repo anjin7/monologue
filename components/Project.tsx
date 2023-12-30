@@ -11,6 +11,10 @@ export default function Project() {
         <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>6</li>
         <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>7</li>
         <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>8</li>
+        <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>9</li>
+        <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>10</li>
+        <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>11</li>
+        <li className='bg-white h-24 w-80 p-4 border border-black rounded-lg'>12</li>
       </ul>
     </div>
   )
