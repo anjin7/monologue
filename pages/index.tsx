@@ -5,7 +5,7 @@ import Project from '../components/Project';
 
 const Home:NextPage = () => {
   return (
-    <div className='min-h-screen'>
+    <div className='min-h-screen font-sans'>
       <Header />
       <Project />
     </div>
