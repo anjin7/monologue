@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-const Header: NextPage = () => {
+const NavBar: NextPage = () => {
   const router = useRouter();
   return (
     <nav className='grid grid-cols-12 gap-40 px-4 py-4 pl-12'>
@@ -20,4 +20,4 @@ const Header: NextPage = () => {
   );
 }
 
-export default Header;
+export default NavBar;

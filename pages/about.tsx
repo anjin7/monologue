@@ -1,4 +1,4 @@
-import Header from "../components/Header";
+import Header from "../components/NavBar";
 import type { NextPage } from "next";
 import Resume from '../components/Resume';
 
