@@ -6,7 +6,7 @@ import Seo from "../components/Seo";
 
 const Home:NextPage = () => {
   return (
-    <div className='min-h-screen font-sans'>
+    <div>
       <Seo title="Home" />
       <Project />
     </div>
