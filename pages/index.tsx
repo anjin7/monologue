@@ -8,7 +8,6 @@ const Home:NextPage = () => {
   return (
     <div className='min-h-screen font-sans'>
       <Seo title="Home" />
-      <Header />
       <Project />
     </div>
   )
