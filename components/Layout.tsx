@@ -1,4 +1,5 @@
 import NavBar from "./NavBar";
+import TopBtn from '../components/TopBtn';
 
 interface Ititle {
 title?: string
@@ -10,6 +11,7 @@ export default function Layout({ children }:Ititle) {
     <>
       <NavBar />
       <div>{children}</div>
+      <TopBtn />
     </>
   );
 }
