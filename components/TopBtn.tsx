@@ -19,8 +19,8 @@ export default function TopBtn() {
     };
   }, []);
   return (
-    <div className='fixed bottom-8 right-8'>
-      <button onClick={scrollToTop}>
+    <div className='fixed bottom-8 right-8 bg-[#fcfaf2]/70 py-3 px-2 border rounded-full'>
+      <button onClick={scrollToTop} className='text-[14px] font-bold'>
         TOP
       </button>      
     </div>
