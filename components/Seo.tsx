@@ -7,7 +7,7 @@ children?: React.ReactNode
 export default function Seo({ title }:Ititle) {
   return (
     <Head>
-      <title>{title} | Monologue</title>
+      <title>{title} | Monologue </title>
     </Head>
   );
 }
