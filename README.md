@@ -1,6 +1,6 @@
-# monologue
+# Monologue
 
-portfolio
+Portfolio
 
 NextJS + TypeScript + tailwind
 
