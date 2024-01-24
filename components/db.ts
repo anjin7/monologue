@@ -5,20 +5,23 @@ export const projects = [
     title: "Netflix",
     url: "https://anjin7.github.io/react-challenge-nomflix/",
     imgUrl: "",
-    alt: "Netflix"
+    alt: "Netflix",
+    skill:"",
   },
   {
     id: 2,
     title: "",
     url:"",
     imgUrl: "",
-    alt: ""
+    alt: "",
+    skill:"",
   },
   {
     id: 3,
     title: "",
     url:"",
     imgUrl: "",
-    alt: ""
+    alt: "",
+    skill:"",
   }
 ]
