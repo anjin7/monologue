@@ -9,8 +9,9 @@ export default function Project() {
             <p>skill</p>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-            <h3>title2</h3>
-            <p>skill</p>
+            <h3 className='m-2'>title2</h3>
+            <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center'>img</div>
+            <p className='my-2 mx-4'>skill</p>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3>title3</h3>
