@@ -14,6 +14,7 @@ export default function Resume() {
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>4</li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>5</li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>6</li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:col-span-2'>7</li>
           </ul>
         </div>
       </div>
