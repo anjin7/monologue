@@ -9,12 +9,24 @@ export default function Resume() {
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3>1</h3>
             </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>2</li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>3</li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>4</li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>5</li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>6</li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:col-span-2'>7</li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
+              <h3>2</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
+              <h3>3</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
+              <h3>4</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
+              <h3>5</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
+              <h3>6</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:col-span-2'>
+              <h3>7</h3>
+            </li>
           </ul>
         </div>
       </div>
