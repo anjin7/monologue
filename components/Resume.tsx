@@ -8,12 +8,12 @@ export default function Resume() {
           <ul className='grid grid-cols-1 gap-4 text-gray-500 font-extrabold md:grid-cols-2 xl:grid-cols-3'>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3>name nickname</h3>
-              <p>img</p>
+              <div>img</div>
             </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:row-span-2 xl:h-[500px]'>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
               <h3>email github velog</h3>
             </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:row-span-2 xl:h-[500px]'>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
               <h3>skills</h3>
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
