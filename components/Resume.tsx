@@ -8,24 +8,19 @@ export default function Resume() {
           <ul className='grid grid-cols-1 gap-4 text-gray-500 font-extrabold md:grid-cols-2 xl:grid-cols-3'>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3>name nickname</h3>
+              <p>img</p>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:row-span-2 xl:h-[500px]'>
+              <h3>email github velog</h3>
+            </li>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:row-span-2 xl:h-[500px]'>
+              <h3>skills</h3>
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-              <h3>email github</h3>
-            </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-              <h3>3</h3>
-            </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-              <h3>4</h3>
-            </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-              <h3>5</h3>
-            </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
-              <h3>6</h3>
+              <h3>center</h3>
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg xl:col-span-2'>
-              <h3>7</h3>
+              <h3>end</h3>
             </li>
           </ul>
         </div>
