@@ -4,9 +4,9 @@ import { useRouter } from "next/router";
 export default function NavBar(){
   const router = useRouter();
   return (
-    <div className='relative top-0 min-w-[300px] bg-white'>
+    <div className='relative top-0 min-w-[300px]'>
       <div className='mx-auto'>
-        <nav className='grid grid-cols-12 gap-40 p-4 pl-20 font-bold text-xl lg:pl-[10%]'>
+        <nav className='grid grid-cols-12 gap-40 p-4 pl-[72px] font-bold text-xl md:pl-28 xl:pl-48'>
           <Link href="/" legacyBehavior>
             <a style={{ color: router.pathname === "/" ? "skyblue" : "silver" }} >
               Monologue
