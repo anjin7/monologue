@@ -6,7 +6,7 @@ export default function NavBar(){
   return (
     <div className='relative top-0 min-w-[300px]'>
       <div className='mx-auto'>
-        <nav className='grid grid-cols-12 gap-40 p-4 pl-[72px] font-bold text-xl md:pl-28 xl:pl-48'>
+        <nav className='grid grid-cols-12 gap-40 font-bold text-xl p-4 pl-[72px] md:pl-28 xl:pl-48'>
           <Link href="/" legacyBehavior>
             <a style={{ color: router.pathname === "/" ? "skyblue" : "silver" }} >
               Monologue
