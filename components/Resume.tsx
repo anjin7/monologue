@@ -10,8 +10,10 @@ export default function Resume() {
               <h3>name nickname</h3>
               <div>img</div>
             </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
-              <h3>email github velog</h3>
+            <li className='grid gap-3 bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
+              <div>email</div>
+              <div>github</div>
+              <div>velog</div>
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
               <h3>skills</h3>
