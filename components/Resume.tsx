@@ -15,6 +15,14 @@ export default function Resume() {
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
               <h3>skills</h3>
+              <ul className='p-4 grid gap-3'>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>React</li>
+                <li>Next.js</li>
+              </ul>
             </li>
             <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
               <h3>center</h3>
