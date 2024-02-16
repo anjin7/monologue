@@ -7,32 +7,32 @@ export default function Project() {
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 1</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 2</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 3</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 4</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 5</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
           <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg'>
             <h3 className='m-2'>title 6</h3>
             <div className='mx-auto my-4 w-[90%] bg-white/50 h-[120px] rounded-lg text-center py-4'>img</div>
-            <p className='my-2 mx-4'>skill</p>
+            <div className='my-2 mx-4'>skill</div>
           </li>
         </ul>
       </div>
