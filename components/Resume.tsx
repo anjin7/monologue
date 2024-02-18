@@ -20,6 +20,13 @@ export default function Resume() {
               <ul className='p-4 grid gap-3'>
                 <li>
                   <div>HTML5</div>
+                  <div className='grid grid-cols-5 gap-2'>
+                    <div className='w-4 h-4 bg-sky-300'></div>
+                    <div className='w-4 h-4 bg-sky-300'></div>
+                    <div className='w-4 h-4 bg-sky-300'></div>
+                    <div className='w-4 h-4 bg-sky-300'></div>
+                    <div className='w-4 h-4 bg-sky-300'></div>
+                  </div>
                 </li>
                 <li>
                   <div>CSS3</div>
