@@ -20,7 +20,12 @@ export default function Resume() {
               <ul className='p-4 grid gap-3'>
                 <li>
                   <div>HTML5</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -30,7 +35,12 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>CSS3</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -40,17 +50,12 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>JavaScript</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
-                    <div className='h-4 bg-white'></div>
-                  </div>
-                </li>
-                <li>
-                  <div>TypeScript</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                    <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -60,19 +65,44 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>React</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-white'></div>
+                    <div className='h-4 bg-white'></div>
+                    <div className='h-4 bg-white'></div>
+                  </div>
+                </li>
+                <li>
+                  <div>TypeScript</div>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-white'></div>
+                    <div className='h-4 bg-white'></div>
                     <div className='h-4 bg-white'></div>
                     <div className='h-4 bg-white'></div>
                   </div>
                 </li>
                 <li>
                   <div>Next.js</div>
-                  <div className='p-2 grid grid-cols-5 gap-2'>
+                  <div className='p-2 grid grid-cols-10 gap-1'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-[#abd1e7]'></div>
+                    <div className='h-4 bg-white'></div>
+                    <div className='h-4 bg-white'></div>
+                    <div className='h-4 bg-white'></div>
                     <div className='h-4 bg-white'></div>
                     <div className='h-4 bg-white'></div>
                     <div className='h-4 bg-white'></div>
