@@ -6,8 +6,8 @@ export default function Resume() {
         <h2 className='font-bold text-lg m-4'>about</h2>
         <div className='w-[96%] my-8 mx-auto'>
           <ul className='grid grid-cols-1 gap-4 text-gray-500 font-extrabold md:grid-cols-2 xl:grid-cols-3'>
-            <li className='grid grid-cols-2 gap-2 bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
-              <div className='bg-white rounded-lg'>img</div>
+            <li className='flex gap-4 bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
+              <div className='w-40 bg-white rounded-lg'>img</div>
               <div className='grid'>
                 <h4>Name</h4>
                 <h4>Nickname</h4>
