@@ -22,7 +22,7 @@ export default function Resume() {
               <ul className='p-4 grid gap-3'>
                 <li>
                   <div>HTML5</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -37,7 +37,7 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>CSS3</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -52,7 +52,7 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>JavaScript</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -67,7 +67,7 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>React</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -82,7 +82,7 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>TypeScript</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
@@ -97,7 +97,7 @@ export default function Resume() {
                 </li>
                 <li>
                   <div>Next.js</div>
-                  <div className='p-2 grid grid-cols-10 gap-1'>
+                  <div className='my-1 p-2 grid grid-cols-10 gap-1 rounded-lg hover:bg-white/50'>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
                     <div className='h-4 bg-[#abd1e7]'></div>
