@@ -42,10 +42,10 @@ export const projects = [
   },
   {
     id: 6,
-    title: "",
+    title: "title",
     url: "",
     imgUrl: "",
     alt: "",
-    skills: [""],
+    skills: ["a"],
   }
 ]
