@@ -10,6 +10,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Best Seller Books",
+    url: "",
+    imgUrl: "",
+    alt: "",
+    skills: ["NextJS"],
+  },
+  {
+    id: 3,
     title: "Coin Tracker",
     url:"https://anjin7.github.io/react-challenge/",
     imgUrl: "",
@@ -17,7 +25,7 @@ export const projects = [
     skills:["React", "TypeScript", "Styled-components",]
   },
   {
-    id: 3,
+    id: 4,
     title: "Movie App",
     url:"https://anjin7.github.io/movie_app22",
     imgUrl: "",
@@ -25,15 +33,15 @@ export const projects = [
     skills:["React", "JavaScript"],
   },
   {
-    id: 4,
-    title: "ToDoList",
+    id: 5,
+    title: "ToDo List",
     url: "https://anjin7.github.io/react-challenge2/",
     imgUrl: "",
     alt: "ToDo List",
     skills: ["React", "TypeScript", "Styled-components","Drag & Drop"],
   },
   {
-    id: 5,
+    id: 6,
     title: "Momentum",
     url: "https://anjin7.github.io/challenge_js/",
     imgUrl: "",
@@ -41,7 +49,15 @@ export const projects = [
     skills: ["JavaScript", "HTML", "CSS"],
   },
   {
-    id: 6,
+    id: 7,
+    title: "title",
+    url: "",
+    imgUrl: "",
+    alt: "",
+    skills: ["a"],
+  },
+  {
+    id: 8,
     title: "title",
     url: "",
     imgUrl: "",
