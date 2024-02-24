@@ -10,11 +10,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Best Seller Books",
-    url: "",
+    title: "Job Application",
+    url: "https://wm579l-3000.csb.app/",
     imgUrl: "",
-    alt: "",
-    skills: ["NextJS"],
+    alt: "Job Application",
+    skills: ["NextJS", "TypeScript", "Tailwind"],
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ export const projects = [
     url: "https://anjin7.github.io/challenge_js/",
     imgUrl: "",
     alt: "Momentum",
-    skills: ["JavaScript", "HTML", "CSS"],
+    skills: ["VanillaJS", "HTML", "CSS"],
   },
   {
     id: 7,
