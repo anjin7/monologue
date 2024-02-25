@@ -115,7 +115,7 @@ export default function Resume() {
             <li className='bg-[#fcfaf2]/70 h-60 w-[100%] p-4 rounded-lg hidden xl:block'>
               <h3></h3>
             </li>
-            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
+            <li className='bg-[#fcfaf2]/40 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3>end</h3>
             </li>
           </ul>

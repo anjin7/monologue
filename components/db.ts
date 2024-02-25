@@ -62,6 +62,6 @@ export const projects = [
     url: "",
     imgUrl: "",
     alt: "",
-    skills: ["a"],
+    skills: ["a", "b"],
   }
 ]
