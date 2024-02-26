@@ -20,14 +20,14 @@ export default function Resume() {
               <div>
                 <h4>Github</h4>
                 <div className='my-6 text-xl text-center'>
-                  <a href="https://github.com/anjin7" target='_blank'>→ Github</a>
+                  <a href="https://github.com/anjin7" target='_blank'>Github</a>
                 </div>
                 
               </div>
               <div>
                 <h4>Blog</h4>
                 <div className='my-4 text-xl text-center'>
-                  <a href="https://velog.io/@anjin7/posts" target='_blank'>→ Velog</a>
+                  <a href="https://velog.io/@anjin7/posts" target='_blank'>Velog</a>
                 </div>                
               </div>
             </li>
@@ -126,10 +126,10 @@ export default function Resume() {
                 </li>
               </ul>
             </li>
-            <li className='bg-[#fcfaf2]/70 h-60 w-[100%] p-4 rounded-lg hidden xl:block'>
-              <h3></h3>
+            <li className='bg-white/30 h-60 w-[100%] p-4 rounded-lg hidden xl:block'>
+              <h3>img</h3>
             </li>
-            <li className='bg-white/60 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
+            <li className='bg-[#fcfaf2]/10 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3></h3>
             </li>
           </ul>
