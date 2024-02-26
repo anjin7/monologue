@@ -13,9 +13,23 @@ export default function Resume() {
               </div>
             </li>
             <li className='grid gap-3 bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
-              <div>email</div>
-              <div>github</div>
-              <div>velog</div>
+              <div>
+                <h4>E-mail</h4>
+                <a href="" target='_blank' className='m-auto text-xl'></a>
+              </div>
+              <div>
+                <h4>Github</h4>
+                <div className='my-6 text-xl text-center'>
+                  <a href="https://github.com/anjin7" target='_blank'>→ Github</a>
+                </div>
+                
+              </div>
+              <div>
+                <h4>Blog</h4>
+                <div className='my-4 text-xl text-center'>
+                  <a href="https://velog.io/@anjin7/posts" target='_blank'>→ Velog</a>
+                </div>                
+              </div>
             </li>
             <li className='bg-[#fcfaf2]/30 w-[100%] p-4 rounded-lg row-span-2 h-[500px]'>
               <h3>Skills</h3>
