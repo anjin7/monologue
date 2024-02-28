@@ -15,7 +15,7 @@ export default function Resume() {
             <li className='grid gap-3 bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:row-span-2 md:h-[500px]'>
               <div>
                 <h4>E-mail</h4>
-                <p className='my-6 text-xl text-center'>mail</p>
+                <p className='my-6 text-xl text-center'>mail@mail.com</p>
               </div>
               <div>
                 <h4>Github</h4>
@@ -127,7 +127,7 @@ export default function Resume() {
               </ul>
             </li>
             <li className='bg-white/30 h-60 w-[100%] p-4 rounded-lg hidden xl:block'>
-              <h3>img</h3>
+              <div className='my-4 text-xl text-center'>img</div>
             </li>
             <li className='bg-[#fcfaf2]/10 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3></h3>
