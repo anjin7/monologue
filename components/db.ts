@@ -10,6 +10,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Twitter",
+    url: "https://anjin7.github.io/react-twitter/#/",
+    imgUrl: "",
+    alt: "twitter",
+    skills: ["Reeact", "Firebase", "TypeScript"],
+  },
+  {
+    id: 3,
     title: "Job Application",
     url: "https://wm579l-3000.csb.app/",
     imgUrl: "",
@@ -17,7 +25,7 @@ export const projects = [
     skills: ["NextJS", "TypeScript", "Tailwind"],
   },
   {
-    id: 3,
+    id: 4,
     title: "Coin Tracker",
     url:"https://anjin7.github.io/react-challenge/",
     imgUrl: "",
@@ -25,7 +33,7 @@ export const projects = [
     skills:["React", "TypeScript", "Styled-components",]
   },
   {
-    id: 4,
+    id: 5,
     title: "Movie App",
     url:"https://anjin7.github.io/movie_app22",
     imgUrl: "",
@@ -33,7 +41,7 @@ export const projects = [
     skills:["React", "JavaScript"],
   },
   {
-    id: 5,
+    id: 6,
     title: "ToDo List",
     url: "https://anjin7.github.io/react-challenge2/",
     imgUrl: "",
@@ -41,7 +49,7 @@ export const projects = [
     skills: ["React", "TypeScript", "Styled-components","Drag & Drop"],
   },
   {
-    id: 6,
+    id: 7,
     title: "Momentum",
     url: "https://anjin7.github.io/challenge_js/",
     imgUrl: "",
@@ -49,19 +57,12 @@ export const projects = [
     skills: ["VanillaJS", "HTML", "CSS"],
   },
   {
-    id: 7,
+    id: 8,
     title: "title",
     url: "",
     imgUrl: "",
     alt: "",
     skills: ["a"],
   },
-  {
-    id: 8,
-    title: "title",
-    url: "",
-    imgUrl: "",
-    alt: "",
-    skills: ["a", "b"],
-  }
+
 ]
