@@ -129,7 +129,7 @@ export default function Resume() {
             <li className='bg-white/30 h-60 w-[100%] p-4 rounded-lg hidden xl:block'>
               <div className='text-xl text-center'>img</div>
             </li>
-            <li className='bg-[#fcfaf2]/10 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
+            <li className='bg-[#fcfaf2]/30 h-60 w-[100%] p-4 rounded-lg md:col-span-2'>
               <h3></h3>
             </li>
           </ul>
