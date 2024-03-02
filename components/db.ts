@@ -14,10 +14,18 @@ export const projects = [
     url: "https://anjin7.github.io/react-twitter/#/",
     imgUrl: "",
     alt: "twitter",
-    skills: ["Reeact", "Firebase", "TypeScript"],
+    skills: ["React", "Firebase", "TypeScript"],
   },
   {
     id: 3,
+    title: "Monolog",
+    url: "https://regal-brioche-7343b2.netlify.app/",
+    imgUrl: "",
+    alt: "Monolog",
+    skills: ["NextJS", "TypeScript", "Tailwind"],
+  },
+  {
+    id: 4,
     title: "Job Application",
     url: "https://wm579l-3000.csb.app/",
     imgUrl: "",
@@ -25,7 +33,7 @@ export const projects = [
     skills: ["NextJS", "TypeScript", "Tailwind"],
   },
   {
-    id: 4,
+    id: 5,
     title: "Coin Tracker",
     url:"https://anjin7.github.io/react-challenge/",
     imgUrl: "",
@@ -33,7 +41,7 @@ export const projects = [
     skills:["React", "TypeScript", "Styled-components",]
   },
   {
-    id: 5,
+    id: 6,
     title: "Movie App",
     url:"https://anjin7.github.io/movie_app22",
     imgUrl: "",
@@ -41,7 +49,7 @@ export const projects = [
     skills:["React", "JavaScript"],
   },
   {
-    id: 6,
+    id: 7,
     title: "ToDo List",
     url: "https://anjin7.github.io/react-challenge2/",
     imgUrl: "",
@@ -49,20 +57,12 @@ export const projects = [
     skills: ["React", "TypeScript", "Styled-components","Drag & Drop"],
   },
   {
-    id: 7,
+    id:8,
     title: "Momentum",
     url: "https://anjin7.github.io/challenge_js/",
     imgUrl: "",
     alt: "Momentum",
     skills: ["VanillaJS", "HTML", "CSS"],
-  },
-  {
-    id: 8,
-    title: "title",
-    url: "",
-    imgUrl: "",
-    alt: "",
-    skills: ["a"],
   },
 
 ]
