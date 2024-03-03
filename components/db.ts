@@ -19,7 +19,7 @@ export const projects = [
   {
     id: 3,
     title: "Monologue",
-    url: "https://regal-brioche-7343b2.netlify.app/",
+    url: "",
     imgUrl: "",
     alt: "Monologue",
     skills: ["NextJS", "TypeScript", "Tailwind"],
